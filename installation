@@ -6,3 +6,13 @@ https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/1.15.0/install
 to get models 
 
 https://build.nvidia.com/explore/discover#llama3-70b
+
+
+to login nvidia registery
+
+https://org.ngc.nvidia.com/setup/api-key
+
+
+cuda installation
+
+https://docs.nvidia.com/cuda/cuda-installation-guide-linux/
